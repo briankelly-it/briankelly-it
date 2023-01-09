@@ -2,8 +2,13 @@
 
 <h2>Information Technology Projects</h2>
 
+- <b>Windows OS</b>
+  - [Installing Windows 10 within VirtualBox](https://github.com/briankelly-it/windows-10-virtualbox)
+  - [Installing Windows Server within VirtualBox](https://github.com/briankelly-it/windows-server-virtualbox)
+
 - <b>Active Directory</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/briankelly-it/configure-ad)
+  - [Installing and Configuring Active Directory](https://github.com/briankelly-it/configure-ad)
+  - [Network Security Groups and File Sharing](https://github.com/briankelly-it/azure-network-protocols)
 
 <h2>Connect with me</h2>
 
