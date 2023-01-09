@@ -7,7 +7,7 @@
   - [Installing Windows Server within VirtualBox](https://github.com/briankelly-it/windows-server-virtualbox)
 
 - <b>Active Directory</b>
-  - [Installing and Configuring Active Directory](https://github.com/briankelly-it/configure-ad)
+  - [Installing and Configuring Active Directory](https://github.com/briankelly-it/configure-active-directory)
   - [Network Security Groups and File Sharing](https://github.com/briankelly-it/azure-network-protocols)
 
 <h2>Connect with me</h2>
