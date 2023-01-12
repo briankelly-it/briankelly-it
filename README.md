@@ -2,13 +2,17 @@
 
 <h2>Information Technology Projects</h2>
 
-- <b>Windows OS</b>
-  - [Installing Windows 10 within VirtualBox](https://github.com/briankelly-it/windows-10-virtualbox)
-  - [Installing Windows Server within VirtualBox](https://github.com/briankelly-it/windows-server-virtualbox)
+- <b>osTicket (Ticketing System)</b>
+  - [Implementing a Help Desk Ticketing System (osTicket) using Azure VMs](https://github.com/briankelly-it/osticket-install-azure)
+  - [osTicket Configuration using Azure VMs](https://github.com/briankelly-it/osticket-config)
 
 - <b>Active Directory</b>
   - [Installing and Configuring Active Directory](https://github.com/briankelly-it/configure-active-directory)
   - [Network Security Groups and File Sharing](https://github.com/briankelly-it/azure-network-protocols)
+
+- <b>Windows OS</b>
+  - [Installing Windows 10 within VirtualBox](https://github.com/briankelly-it/windows-10-virtualbox)
+  - [Installing Windows Server within VirtualBox](https://github.com/briankelly-it/windows-server-virtualbox)
 
 <h2>Connect with me</h2>
 
