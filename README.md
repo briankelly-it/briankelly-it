@@ -3,7 +3,7 @@
 <h2>Information Technology Projects</h2>
 
 - <b>osTicket (Ticketing System)</b>
-  - [Implementing a Help Desk Ticketing System (osTicket) using Azure VMs](https://github.com/briankelly-it/osticket-install-azure)
+  - [Implementing a Help Desk Ticketing System (osTicket) using Azure VMs](https://github.com/briankelly-it/osticket-azure-install)
   - [osTicket Configuration using Azure VMs](https://github.com/briankelly-it/osticket-config)
 
 - <b>Active Directory</b>
