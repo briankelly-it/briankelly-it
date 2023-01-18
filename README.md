@@ -4,11 +4,6 @@
 
 - <b>osTicket (Ticketing System)</b>
   - [Implementing a Help Desk Ticketing System (osTicket) using Azure VMs](https://github.com/briankelly-it/osticket-azure-install)
-  - [osTicket Configuration using Azure VMs](https://github.com/briankelly-it/osticket-config)
-
-- <b>Active Directory</b>
-  - [Installing and Configuring Active Directory](https://github.com/briankelly-it/configure-active-directory)
-  - [Network Security Groups and File Sharing](https://github.com/briankelly-it/azure-network-protocols)
 
 - <b>Windows OS</b>
   - [Installing Windows 10 within VirtualBox](https://github.com/briankelly-it/windows-10-virtualbox)
